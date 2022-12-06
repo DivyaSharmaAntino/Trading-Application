@@ -1,4 +1,4 @@
-# densityTradingApp
+# DensityTradingApp
 - UI/UX Design components with React Native paper
 - Redux, [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started) for state management 
 - Performant, flexible and extensible forms with easy-to-use validation using [React Hook Form](https://react-hook-form.com/get-started)
@@ -14,5 +14,6 @@
 - Then navigate to `PROJECT-DIRECTORY/src/theme/customeTheme.js` and add/change fonts and fontConfig.
 
 
-
+'''
 fonts: { heading: 'Inter', body: 'Inter', mono: 'Inter', }, fontConfig: { Inter: { 100: { normal: 'Inter-Thin', }, 200: { normal: 'Inter-ExtraLight', }, 300: { normal: 'Inter-Light', }, 400: { normal: 'Inter-Regular', }, 500: { normal: 'Inter-Medium', }, 600: { normal: 'Inter-SemiBold', }, 700: { normal: 'Inter-Bold', }, 800: { normal: 'Inter-ExtraBold', }, 900: { normal: 'Inter-Black', }, }, }
+'''
